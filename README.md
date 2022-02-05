@@ -1,1 +1,1 @@
-# HTML-Course by MohammadSawan in KinG4Tech Channel (from scratch)
+Source code of our HTML crash course on YouTube
